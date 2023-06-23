@@ -1,0 +1,14 @@
+h1 {
+    text-align: right;
+    text-decoration: green underline;
+    letter-spacing: 15px;
+    font-family: monospaced;
+}
+
+p {
+   line-height: 1;
+}
+
+a {
+    text-decoration: none;
+}

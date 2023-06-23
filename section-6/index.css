@@ -1,0 +1,14 @@
+h2 {
+    color: teal;
+    background-color: rgb(89, 151, 0);
+}
+
+button {
+    background-color: aqua;
+    color: magenta
+}
+
+p {
+    color: hsl(34, 79%, 15%);
+    background-color: papayawhip;
+}
