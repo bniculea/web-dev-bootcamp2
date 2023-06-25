@@ -1,0 +1,48 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    width: 100;
+}
+
+.card {
+    width: 200px;
+    height: auto;
+    background-color: aqua;
+    /* padding: 20px; */
+    padding: 20px 40px 60px 80px
+}
+
+#one {
+    background-color: #cdb4db;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+#two {
+    background-color: #8ecae6;
+    border-color: cadetblue;
+    border-width: 3px;
+    border-style: groove;
+    box-sizing: border-box;
+}
+
+#three {
+    background-color: #fb8500;
+    border: 2px solid red;
+    box-sizing: border-box;
+    border-right: 10px solid blue;
+    border-radius: 50%;
+    border-radius: 50%;
+}
+
+h1 {
+    background-color: rgb(30, 94, 94);
+    width: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
